@@ -1,8 +1,9 @@
+## TrueChain - a first glance
 If you’re just getting started developing a brand new DApp on TrueChain, check out these resources to understand the theory behind and some of the most common patterns for getting the most benefits from TrueChain.
 
 
 
-## Introduction - What is TrueChain
+### Introduction - What is TrueChain
 
 TrueChain is a truly fast, permissionless, secure and scalable permissionless blockchain platform which is supported by hybrid consensus technology called Minerva and fast growing global developer community.
 
@@ -24,6 +25,3 @@ Great product is always developed by a great team. The team of TrueChain is inte
 As a public blockchain, TrueChain can be used in a variety of scenarios. For example, insurance, medical care, game, public welfare, asset securitization, digital advertising, micropayments, value transmission, digital copyright, just to name a few. Utilizing the node scale-out flexibility and the high efficient consensus mechanism, TrueChain can also expand its footprint in areas like mobile digital bill of exchange, securities trading, and supply chain management, property right tracking, digital certificate, etc.
 
 With all these advantages, TrueChain has been highly recognized. For example, TrueChain is the public blockchain member of The China Cloud System Pioneer Strategic Alliance (CCOPSA). TrueChain is also among the very few blockchain projects that are reported by CCTV - the predominant state television broadcaster in China.
-
-### Installation - How to get and install TrueChain
-check here
