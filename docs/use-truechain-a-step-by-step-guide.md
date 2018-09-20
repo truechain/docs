@@ -1,0 +1,2 @@
+## Use TrueChain - a step by step guide
+Now that you have equipped yourself with basic TrueChain knowledge, and you cannot wait to start to use TrueChain. Find below step by step guidance to make your journey stress-free.

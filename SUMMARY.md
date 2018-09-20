@@ -1,0 +1,8 @@
+* [TrueChain Developer Guide](TrueChain-Developer-Guide.md)
+* [TrueChain - a first glance](docs/truechain-a-firstglance1.md)
+    * [Installation - for Mac Users](docs/installation-how-to-get-and-install-truechain.md)
+    * [Installation - for Ubuntu Users](docs/installation-for-ubuntu-users.md)
+* [Use TrueChain - a step by step guide](docs/use-truechain-a-step-by-step-guide.md)
+* [Develop with TrueChain](docs/develop-with-truechain.md)
+* [Research topics](docs/research-topics.md)
+* [Discussion forum](docs/discussion-forum.md)

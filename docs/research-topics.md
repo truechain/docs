@@ -1,0 +1,2 @@
+## Research topics
+Blockchain is a rapidly-changing industry, It's not a space with a lot of definitive long-form print media available. So in order to stay on top of this industry, TrueChain have a number of research teams around the global to conduct cutting-edge research. Find below those topics in our agenda.
