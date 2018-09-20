@@ -20,7 +20,7 @@ Firstly, please check whether the system has installed Git.
 ```
 $ git --version
 ```
-![](../images/ubtungit001.png =280x80)
+![](../images/ubtungit001.png)
 When computer displays information like above, it indicates the Git hasn’t been installed;
 
 Then, please use package-management tools to install Git as there is no specific requirement for Git version.
