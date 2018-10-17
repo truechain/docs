@@ -31,7 +31,6 @@ Finally, please check whether it is installed successfully after installation.
 $ sudo apt-get install git
 ```
 
-最后，安装完成后，检查是否安装成功
 ```
 $ git --version
 ```
