@@ -204,9 +204,4 @@ Both of Goland and Visual Studio Code have downloaded Linux. As to specific inst
 * Environment setup of Windows [https://github.com/truechain/wiki/blob/master/developer/2.window_env_build.md](https://github.com/truechain/wiki/blob/master/developer/2.window_env_build.md)
 
 
-## IDE
-Goland 和 Visual Studio Code都有Linux下的版本，具体的安装过程可以参考以下两篇文章。
-* 苹果开发环境搭建[https://github.com/truechain/wiki/blob/master/developer/1.mac_env_build.md](https://github.com/truechain/wiki/blob/master/developer/1.mac_env_build.md)
-* Window环境搭建[https://github.com/truechain/wiki/blob/master/developer/2.window_env_build.md](https://github.com/truechain/wiki/blob/master/developer/2.window_env_build.md)
-
 The compiler I use in the development process is Vim, and I will introduce how to configurate Vim into a powerful development tool in the article-- Preparation Period of Developing Truechain – Environment Setup (Vim)
