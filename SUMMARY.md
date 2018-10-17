@@ -3,6 +3,7 @@
     * [Installation - for Mac Users](docs/installation-how-to-get-and-install-truechain.md)
     * [Installation - for Ubuntu Users](docs/installation-for-ubuntu-users.md)
 * [Use TrueChain - a step by step guide](docs/use-truechain-a-step-by-step-guide.md)
+    * [Start with your TrueChain testing network](docs/testing-network-setup.md)
 * [Develop with TrueChain](docs/develop-with-truechain.md)
 * [Research topics](docs/research-topics.md)
 * [Discussion forum](docs/discussion-forum.md)
