@@ -120,7 +120,7 @@ docker run -v $PWD:/truechain-engineering-code -it -p 30311:30311 -p 30310:30310
 
 --datadir : data storage folder
 
---minefruit : specify mining fruit only
+--minefruit : specify mining fruit only 
 
 --election : this node participate in committee election
 
