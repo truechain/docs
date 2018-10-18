@@ -193,5 +193,4 @@ admin.addPeer("enode://35184ea5262987880b3a97a38a0678e32d279a9438770940293f181f4
 
 ### Step5. After a successful connection between two nodes, the next two nodes will automatically synchronize the transaction as shown in the figure
 
-![7.jpg](https://github.com/truechain/wiki/blob/master/developer/img/151539223849_.pic_hd.jpg)
-
+![7.jpg](../images/151539223849_pic_hd.jpg)
