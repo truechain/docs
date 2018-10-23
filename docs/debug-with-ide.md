@@ -8,7 +8,7 @@ Experiment Environment:
 
 Clone the repository From Github:  
 ```
-git clone -b fpow ow https://github.com/truechain/truechain-engineering-code.git
+git clone -b fpow ow https://github.com/truechain/truechain-engineering-code.git 
 
 ```
 
@@ -33,7 +33,7 @@ File >> Open ${ProjectPath}
 
 ### Compile:
 ```
-$ make getrue
+$ make getrue 
 ```
 
 PS: After “make” , the executable file of “geture” will generate at the path of “build/bin”
