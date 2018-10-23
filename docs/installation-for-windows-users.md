@@ -9,7 +9,7 @@ This article provides a detailed description of the develop environment on the W
 1. Operating system environment `Windows 10 Professional version`
 
 2. Golang environment
-####step1 - Download and install Golang
+#### step1 - Download and install Golang
 
 It is required to download and install the 1.7+ version of golang.   
 Below is the Golang V1.10.3 latest of official download address:
