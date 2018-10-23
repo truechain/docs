@@ -3,6 +3,7 @@
     * [Installation - for Mac Users](docs/installation-how-to-get-and-install-truechain.md)
     * [Installation - for Ubuntu Users](docs/installation-for-ubuntu-users.md)
     * [Installation - for Centos Users](docs/installation-for-centos-users.md)
+    * [Installation - for Windows Users](docs/installation-for-windows-users.md)
 * [Use TrueChain - a step by step guide](docs/use-truechain-a-step-by-step-guide.md)
     * [Start with your TrueChain testing network](docs/testing-network-setup.md)
     * [TrueChain mining tutorial (docker version)](docs/truechain-mining-tutorial-docker-version.md)
