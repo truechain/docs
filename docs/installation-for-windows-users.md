@@ -291,7 +291,7 @@ First find the location of the True Chain project code in "..\cmd\getrue", selec
 
 ![](../images/windows019.png)
 
-The solution is as follows: `Open Run--Edit Configuration`, add the following parameters to Program arguments:` --datadir ./data init ./truechain-engineering-code/cmd/getrue/genesis.json` as shown below:
+The solution is as follows: `Open Run--Edit Configuration`, add the following parameters to Program arguments:` --datadir ./data init ./truechain-engineering-code/cmd/getrue/genesis.json` as shown below:  
 
 ![](../images/windows020.png)
 
