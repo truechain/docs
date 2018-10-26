@@ -9,6 +9,7 @@
     * [TrueChain mining tutorial (docker version)](docs/truechain-mining-tutorial-docker-version.md)
     * [How to execute unit test in Truechain](docs/truechain-how-to-execute-test.md)
     * [Debugging with IDE](docs/debug-with-ide.md)
+    * [TrueChain Continuous Integration](docs/debug-with-ide.md)
 * [Develop with TrueChain](docs/develop-with-truechain.md)
     * [build the environment(VSCode & Vim)](docs/build-the-environment.md)
 * [Research topics](docs/research-topics.md)
