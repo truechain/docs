@@ -15,7 +15,7 @@ Delve is a debugger for the Go programming language. The goal of the project is 
 install the requirements
 
 ```
-go get -u github.com/derekparker/delve/cmd/dlv
+go get -u github.com/derekparker/delve/cmd/dlv 
 
 ```
 
