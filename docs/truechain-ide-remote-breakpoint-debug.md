@@ -29,7 +29,7 @@ Launch the wallet debug program on the server
 go run cmd/getrue/*.go
 ```
 
-![wallet](../images/remotedebug001.jpg.jpg)
+![wallet](../images/remotedebug001.jpg)
 
 
 ### Step 3
