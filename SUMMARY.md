@@ -11,6 +11,7 @@
     * [Debugging with IDE](docs/debug-with-ide.md)
     * [TrueChain Continuous Integration](docs/truechain-continuous-integration.md)
     * [main network setup tutorial](docs/main-network-setup-tutorial.md)
+    * [Truechain IDE remote breakpoint debug](docs/truechain-ide-remote-breakpoint-debug.md) 
 * [Develop with TrueChain](docs/develop-with-truechain.md)
     * [build the environment(VSCode & Vim)](docs/build-the-environment.md)
 * [Research topics](docs/research-topics.md)
