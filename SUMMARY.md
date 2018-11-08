@@ -5,6 +5,7 @@
     * [Installation - for Centos Users](docs/installation-for-centos-users.md)
     * [Installation - for Windows Users](docs/installation-for-windows-users.md)
     * [TrueChain Hybrid Consesus Mechanism](docs/truechain-hybrid-consesus-mechanism.md)
+        * [interpretation of the PBFT committee](docs/interpretation-of-the-truechain-technology-election-of-the-PBFT-committee.md)
 * [Use TrueChain - a step by step guide](docs/use-truechain-a-step-by-step-guide.md)
     * [Start with your TrueChain testing network](docs/testing-network-setup.md)
     * [TrueChain mining tutorial (docker version)](docs/truechain-mining-tutorial-docker-version.md)
